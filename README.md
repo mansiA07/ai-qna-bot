@@ -88,7 +88,16 @@ No prior coding experience is required; effort and documentation are key.
 
 Add conversation memory to see past Q&A pairs.
 
+Deploy as a fully interactive web app with persistent chat history.
+
 Integrate custom knowledge base for domain-specific Q&A.
 
-Deploy as a fully interactive web app with persistent chat history.
+
+Effort & Learning Journey:
+
+I started by building a simple command-line Q&A bot using Groq API. I faced some errors with missing dependencies and API key loading, which I solved by installing packages and using a .env file.
+
+I then enhanced the project by creating a Streamlit UI for web-based interaction and added a model selection feature.
+
+This project shows my ability to Google / ChatGPT solutions, debug issues, and go beyond the minimum requirement by adding small creative touches.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac79f7d2-edba-466d-a921-f3dc5a37d56b" />
